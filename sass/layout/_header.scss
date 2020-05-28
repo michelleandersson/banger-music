@@ -1,5 +1,5 @@
 .site-header{
-	@include clearfix;
+	//@include clearfix;
 	z-index: 99;
 
 	.header-collapse &{
@@ -7,7 +7,7 @@
 		width: 100%;
 	}
 	.container{
-		@include clearfix;
+		//@include clearfix;
 		border-bottom: 1px solid rgba(255,255,255,.15);
 	}
 }
